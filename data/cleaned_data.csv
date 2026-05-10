@@ -1,0 +1,601 @@
+text,sentiment,cleaned_text
+Very happy with this,positive,happy
+Hate this app,negative,hate app
+It works fine,neutral,works fine
+Absolutely fantastic,positive,absolutely fantastic
+Disappointing,negative,disappointing
+It is okay,neutral,okay
+Great service,positive,great service
+Very bad service,negative,bad service
+It is okay,neutral,okay
+Very happy with this,positive,happy
+Very bad service,negative,bad service
+It is okay,neutral,okay
+Great service,positive,great service
+Hate this app,negative,hate app
+It works fine,neutral,works fine
+Great service,positive,great service
+Disappointing,negative,disappointing
+Average experience,neutral,average experience
+Very happy with this,positive,happy
+Disappointing,negative,disappointing
+Not bad,neutral,bad
+Absolutely fantastic,positive,absolutely fantastic
+Hate this app,negative,hate app
+Nothing special,neutral,nothing special
+Very happy with this,positive,happy
+Not satisfied,negative,satisfied
+Can be improved,neutral,improved
+Great service,positive,great service
+Hate this app,negative,hate app
+It works fine,neutral,works fine
+Superb quality,positive,superb quality
+Hate this app,negative,hate app
+Not bad,neutral,bad
+Superb quality,positive,superb quality
+Very bad service,negative,bad service
+It works fine,neutral,works fine
+Very happy with this,positive,happy
+Terrible performance,negative,terrible performance
+Average experience,neutral,average experience
+Amazing experience,positive,amazing experience
+Very bad service,negative,bad service
+Can be improved,neutral,improved
+Amazing experience,positive,amazing experience
+Hate this app,negative,hate app
+It is okay,neutral,okay
+Superb quality,positive,superb quality
+Very bad service,negative,bad service
+Not bad,neutral,bad
+Absolutely fantastic,positive,absolutely fantastic
+Not satisfied,negative,satisfied
+Not bad,neutral,bad
+Absolutely fantastic,positive,absolutely fantastic
+Disappointing,negative,disappointing
+Can be improved,neutral,improved
+Very happy with this,positive,happy
+Terrible performance,negative,terrible performance
+Average experience,neutral,average experience
+Amazing experience,positive,amazing experience
+Terrible performance,negative,terrible performance
+It is okay,neutral,okay
+Amazing experience,positive,amazing experience
+Hate this app,negative,hate app
+Can be improved,neutral,improved
+I love this product,positive,love product
+Hate this app,negative,hate app
+Not bad,neutral,bad
+Amazing experience,positive,amazing experience
+Worst experience ever,negative,worst experience ever
+It works fine,neutral,works fine
+Absolutely fantastic,positive,absolutely fantastic
+Not satisfied,negative,satisfied
+Not bad,neutral,bad
+Absolutely fantastic,positive,absolutely fantastic
+Worst experience ever,negative,worst experience ever
+Can be improved,neutral,improved
+Absolutely fantastic,positive,absolutely fantastic
+Hate this app,negative,hate app
+It is okay,neutral,okay
+Amazing experience,positive,amazing experience
+Disappointing,negative,disappointing
+Can be improved,neutral,improved
+Absolutely fantastic,positive,absolutely fantastic
+Not satisfied,negative,satisfied
+Not bad,neutral,bad
+Very happy with this,positive,happy
+Terrible performance,negative,terrible performance
+It is okay,neutral,okay
+Great service,positive,great service
+Not satisfied,negative,satisfied
+It is okay,neutral,okay
+Absolutely fantastic,positive,absolutely fantastic
+Terrible performance,negative,terrible performance
+It works fine,neutral,works fine
+I love this product,positive,love product
+Worst experience ever,negative,worst experience ever
+It is okay,neutral,okay
+I love this product,positive,love product
+Not satisfied,negative,satisfied
+Nothing special,neutral,nothing special
+Great service,positive,great service
+Not satisfied,negative,satisfied
+Not bad,neutral,bad
+Great service,positive,great service
+Not satisfied,negative,satisfied
+It is okay,neutral,okay
+Absolutely fantastic,positive,absolutely fantastic
+Very bad service,negative,bad service
+Nothing special,neutral,nothing special
+Superb quality,positive,superb quality
+Worst experience ever,negative,worst experience ever
+Nothing special,neutral,nothing special
+Absolutely fantastic,positive,absolutely fantastic
+Disappointing,negative,disappointing
+Can be improved,neutral,improved
+I love this product,positive,love product
+Disappointing,negative,disappointing
+Nothing special,neutral,nothing special
+Amazing experience,positive,amazing experience
+Not satisfied,negative,satisfied
+Nothing special,neutral,nothing special
+Superb quality,positive,superb quality
+Not satisfied,negative,satisfied
+Not bad,neutral,bad
+Superb quality,positive,superb quality
+Worst experience ever,negative,worst experience ever
+Nothing special,neutral,nothing special
+Amazing experience,positive,amazing experience
+Very bad service,negative,bad service
+Nothing special,neutral,nothing special
+Absolutely fantastic,positive,absolutely fantastic
+Terrible performance,negative,terrible performance
+Not bad,neutral,bad
+I love this product,positive,love product
+Worst experience ever,negative,worst experience ever
+It is okay,neutral,okay
+Amazing experience,positive,amazing experience
+Not satisfied,negative,satisfied
+It is okay,neutral,okay
+Great service,positive,great service
+Disappointing,negative,disappointing
+Average experience,neutral,average experience
+Absolutely fantastic,positive,absolutely fantastic
+Not satisfied,negative,satisfied
+Nothing special,neutral,nothing special
+Absolutely fantastic,positive,absolutely fantastic
+Not satisfied,negative,satisfied
+It works fine,neutral,works fine
+Amazing experience,positive,amazing experience
+Terrible performance,negative,terrible performance
+Nothing special,neutral,nothing special
+Absolutely fantastic,positive,absolutely fantastic
+Hate this app,negative,hate app
+It works fine,neutral,works fine
+I love this product,positive,love product
+Hate this app,negative,hate app
+It works fine,neutral,works fine
+Absolutely fantastic,positive,absolutely fantastic
+Very bad service,negative,bad service
+Average experience,neutral,average experience
+Amazing experience,positive,amazing experience
+Disappointing,negative,disappointing
+It is okay,neutral,okay
+Very happy with this,positive,happy
+Not satisfied,negative,satisfied
+It works fine,neutral,works fine
+I love this product,positive,love product
+Very bad service,negative,bad service
+Average experience,neutral,average experience
+Superb quality,positive,superb quality
+Disappointing,negative,disappointing
+It is okay,neutral,okay
+Amazing experience,positive,amazing experience
+Worst experience ever,negative,worst experience ever
+Not bad,neutral,bad
+Superb quality,positive,superb quality
+Worst experience ever,negative,worst experience ever
+Nothing special,neutral,nothing special
+Superb quality,positive,superb quality
+Worst experience ever,negative,worst experience ever
+It works fine,neutral,works fine
+Superb quality,positive,superb quality
+Disappointing,negative,disappointing
+Not bad,neutral,bad
+Absolutely fantastic,positive,absolutely fantastic
+Hate this app,negative,hate app
+It works fine,neutral,works fine
+Superb quality,positive,superb quality
+Terrible performance,negative,terrible performance
+It is okay,neutral,okay
+Absolutely fantastic,positive,absolutely fantastic
+Terrible performance,negative,terrible performance
+Can be improved,neutral,improved
+Superb quality,positive,superb quality
+Not satisfied,negative,satisfied
+Can be improved,neutral,improved
+Very happy with this,positive,happy
+Very bad service,negative,bad service
+It works fine,neutral,works fine
+Absolutely fantastic,positive,absolutely fantastic
+Not satisfied,negative,satisfied
+Can be improved,neutral,improved
+Great service,positive,great service
+Not satisfied,negative,satisfied
+Average experience,neutral,average experience
+Amazing experience,positive,amazing experience
+Worst experience ever,negative,worst experience ever
+Can be improved,neutral,improved
+Amazing experience,positive,amazing experience
+Hate this app,negative,hate app
+Nothing special,neutral,nothing special
+I love this product,positive,love product
+Not satisfied,negative,satisfied
+It is okay,neutral,okay
+I love this product,positive,love product
+Hate this app,negative,hate app
+It is okay,neutral,okay
+I love this product,positive,love product
+Hate this app,negative,hate app
+It works fine,neutral,works fine
+Amazing experience,positive,amazing experience
+Worst experience ever,negative,worst experience ever
+It is okay,neutral,okay
+I love this product,positive,love product
+Hate this app,negative,hate app
+Nothing special,neutral,nothing special
+Very happy with this,positive,happy
+Disappointing,negative,disappointing
+Not bad,neutral,bad
+Superb quality,positive,superb quality
+Disappointing,negative,disappointing
+It works fine,neutral,works fine
+Absolutely fantastic,positive,absolutely fantastic
+Terrible performance,negative,terrible performance
+Can be improved,neutral,improved
+Great service,positive,great service
+Worst experience ever,negative,worst experience ever
+It works fine,neutral,works fine
+Great service,positive,great service
+Disappointing,negative,disappointing
+Can be improved,neutral,improved
+Very happy with this,positive,happy
+Terrible performance,negative,terrible performance
+Average experience,neutral,average experience
+I love this product,positive,love product
+Terrible performance,negative,terrible performance
+Can be improved,neutral,improved
+Very happy with this,positive,happy
+Worst experience ever,negative,worst experience ever
+Not bad,neutral,bad
+Superb quality,positive,superb quality
+Disappointing,negative,disappointing
+It works fine,neutral,works fine
+Amazing experience,positive,amazing experience
+Not satisfied,negative,satisfied
+Can be improved,neutral,improved
+Very happy with this,positive,happy
+Not satisfied,negative,satisfied
+It works fine,neutral,works fine
+Amazing experience,positive,amazing experience
+Worst experience ever,negative,worst experience ever
+It is okay,neutral,okay
+Absolutely fantastic,positive,absolutely fantastic
+Hate this app,negative,hate app
+Average experience,neutral,average experience
+Very happy with this,positive,happy
+Not satisfied,negative,satisfied
+Can be improved,neutral,improved
+Absolutely fantastic,positive,absolutely fantastic
+Terrible performance,negative,terrible performance
+Average experience,neutral,average experience
+Amazing experience,positive,amazing experience
+Terrible performance,negative,terrible performance
+Nothing special,neutral,nothing special
+Very happy with this,positive,happy
+Hate this app,negative,hate app
+It works fine,neutral,works fine
+Very happy with this,positive,happy
+Very bad service,negative,bad service
+It is okay,neutral,okay
+Amazing experience,positive,amazing experience
+Very bad service,negative,bad service
+It works fine,neutral,works fine
+Great service,positive,great service
+Worst experience ever,negative,worst experience ever
+Not bad,neutral,bad
+I love this product,positive,love product
+Not satisfied,negative,satisfied
+Average experience,neutral,average experience
+Superb quality,positive,superb quality
+Terrible performance,negative,terrible performance
+It works fine,neutral,works fine
+Superb quality,positive,superb quality
+Not satisfied,negative,satisfied
+Nothing special,neutral,nothing special
+Absolutely fantastic,positive,absolutely fantastic
+Very bad service,negative,bad service
+Average experience,neutral,average experience
+Very happy with this,positive,happy
+Not satisfied,negative,satisfied
+Nothing special,neutral,nothing special
+Superb quality,positive,superb quality
+Very bad service,negative,bad service
+It is okay,neutral,okay
+I love this product,positive,love product
+Not satisfied,negative,satisfied
+Not bad,neutral,bad
+Absolutely fantastic,positive,absolutely fantastic
+Worst experience ever,negative,worst experience ever
+Not bad,neutral,bad
+Very happy with this,positive,happy
+Terrible performance,negative,terrible performance
+Nothing special,neutral,nothing special
+Superb quality,positive,superb quality
+Hate this app,negative,hate app
+It is okay,neutral,okay
+Amazing experience,positive,amazing experience
+Hate this app,negative,hate app
+It works fine,neutral,works fine
+Superb quality,positive,superb quality
+Worst experience ever,negative,worst experience ever
+Can be improved,neutral,improved
+I love this product,positive,love product
+Very bad service,negative,bad service
+It works fine,neutral,works fine
+I love this product,positive,love product
+Very bad service,negative,bad service
+Not bad,neutral,bad
+Absolutely fantastic,positive,absolutely fantastic
+Worst experience ever,negative,worst experience ever
+Not bad,neutral,bad
+Absolutely fantastic,positive,absolutely fantastic
+Not satisfied,negative,satisfied
+It is okay,neutral,okay
+Absolutely fantastic,positive,absolutely fantastic
+Very bad service,negative,bad service
+It is okay,neutral,okay
+Absolutely fantastic,positive,absolutely fantastic
+Terrible performance,negative,terrible performance
+It works fine,neutral,works fine
+I love this product,positive,love product
+Worst experience ever,negative,worst experience ever
+It works fine,neutral,works fine
+Very happy with this,positive,happy
+Worst experience ever,negative,worst experience ever
+Not bad,neutral,bad
+Superb quality,positive,superb quality
+Very bad service,negative,bad service
+Not bad,neutral,bad
+Amazing experience,positive,amazing experience
+Not satisfied,negative,satisfied
+It works fine,neutral,works fine
+I love this product,positive,love product
+Not satisfied,negative,satisfied
+Can be improved,neutral,improved
+I love this product,positive,love product
+Terrible performance,negative,terrible performance
+It is okay,neutral,okay
+Amazing experience,positive,amazing experience
+Very bad service,negative,bad service
+Average experience,neutral,average experience
+Very happy with this,positive,happy
+Not satisfied,negative,satisfied
+It works fine,neutral,works fine
+Absolutely fantastic,positive,absolutely fantastic
+Hate this app,negative,hate app
+Average experience,neutral,average experience
+I love this product,positive,love product
+Hate this app,negative,hate app
+Can be improved,neutral,improved
+Very happy with this,positive,happy
+Hate this app,negative,hate app
+Not bad,neutral,bad
+Very happy with this,positive,happy
+Hate this app,negative,hate app
+It works fine,neutral,works fine
+Amazing experience,positive,amazing experience
+Disappointing,negative,disappointing
+Can be improved,neutral,improved
+Amazing experience,positive,amazing experience
+Very bad service,negative,bad service
+Not bad,neutral,bad
+Great service,positive,great service
+Terrible performance,negative,terrible performance
+It works fine,neutral,works fine
+Amazing experience,positive,amazing experience
+Disappointing,negative,disappointing
+It works fine,neutral,works fine
+Great service,positive,great service
+Terrible performance,negative,terrible performance
+Can be improved,neutral,improved
+Very happy with this,positive,happy
+Worst experience ever,negative,worst experience ever
+Can be improved,neutral,improved
+Absolutely fantastic,positive,absolutely fantastic
+Worst experience ever,negative,worst experience ever
+It is okay,neutral,okay
+Superb quality,positive,superb quality
+Worst experience ever,negative,worst experience ever
+It works fine,neutral,works fine
+I love this product,positive,love product
+Disappointing,negative,disappointing
+Nothing special,neutral,nothing special
+Amazing experience,positive,amazing experience
+Very bad service,negative,bad service
+It works fine,neutral,works fine
+Amazing experience,positive,amazing experience
+Hate this app,negative,hate app
+Not bad,neutral,bad
+I love this product,positive,love product
+Hate this app,negative,hate app
+Average experience,neutral,average experience
+Very happy with this,positive,happy
+Hate this app,negative,hate app
+Not bad,neutral,bad
+Superb quality,positive,superb quality
+Very bad service,negative,bad service
+It works fine,neutral,works fine
+I love this product,positive,love product
+Terrible performance,negative,terrible performance
+Nothing special,neutral,nothing special
+Great service,positive,great service
+Hate this app,negative,hate app
+Not bad,neutral,bad
+Superb quality,positive,superb quality
+Worst experience ever,negative,worst experience ever
+Nothing special,neutral,nothing special
+Superb quality,positive,superb quality
+Disappointing,negative,disappointing
+Not bad,neutral,bad
+Amazing experience,positive,amazing experience
+Disappointing,negative,disappointing
+Nothing special,neutral,nothing special
+Great service,positive,great service
+Disappointing,negative,disappointing
+Nothing special,neutral,nothing special
+I love this product,positive,love product
+Worst experience ever,negative,worst experience ever
+Nothing special,neutral,nothing special
+Superb quality,positive,superb quality
+Very bad service,negative,bad service
+It works fine,neutral,works fine
+Superb quality,positive,superb quality
+Not satisfied,negative,satisfied
+It is okay,neutral,okay
+Great service,positive,great service
+Very bad service,negative,bad service
+Not bad,neutral,bad
+Superb quality,positive,superb quality
+Terrible performance,negative,terrible performance
+Nothing special,neutral,nothing special
+Amazing experience,positive,amazing experience
+Worst experience ever,negative,worst experience ever
+It works fine,neutral,works fine
+Superb quality,positive,superb quality
+Not satisfied,negative,satisfied
+It is okay,neutral,okay
+I love this product,positive,love product
+Worst experience ever,negative,worst experience ever
+Nothing special,neutral,nothing special
+Superb quality,positive,superb quality
+Disappointing,negative,disappointing
+Can be improved,neutral,improved
+Amazing experience,positive,amazing experience
+Not satisfied,negative,satisfied
+Nothing special,neutral,nothing special
+I love this product,positive,love product
+Not satisfied,negative,satisfied
+Not bad,neutral,bad
+Amazing experience,positive,amazing experience
+Worst experience ever,negative,worst experience ever
+Nothing special,neutral,nothing special
+Great service,positive,great service
+Hate this app,negative,hate app
+Can be improved,neutral,improved
+I love this product,positive,love product
+Not satisfied,negative,satisfied
+Can be improved,neutral,improved
+I love this product,positive,love product
+Disappointing,negative,disappointing
+It works fine,neutral,works fine
+Superb quality,positive,superb quality
+Not satisfied,negative,satisfied
+It works fine,neutral,works fine
+I love this product,positive,love product
+Terrible performance,negative,terrible performance
+Can be improved,neutral,improved
+I love this product,positive,love product
+Not satisfied,negative,satisfied
+Nothing special,neutral,nothing special
+Absolutely fantastic,positive,absolutely fantastic
+Worst experience ever,negative,worst experience ever
+It works fine,neutral,works fine
+Amazing experience,positive,amazing experience
+Very bad service,negative,bad service
+It is okay,neutral,okay
+Superb quality,positive,superb quality
+Very bad service,negative,bad service
+Average experience,neutral,average experience
+Great service,positive,great service
+Disappointing,negative,disappointing
+Not bad,neutral,bad
+Amazing experience,positive,amazing experience
+Not satisfied,negative,satisfied
+Average experience,neutral,average experience
+Very happy with this,positive,happy
+Hate this app,negative,hate app
+Average experience,neutral,average experience
+Amazing experience,positive,amazing experience
+Not satisfied,negative,satisfied
+It works fine,neutral,works fine
+Great service,positive,great service
+Hate this app,negative,hate app
+Not bad,neutral,bad
+Superb quality,positive,superb quality
+Disappointing,negative,disappointing
+Average experience,neutral,average experience
+I love this product,positive,love product
+Hate this app,negative,hate app
+Nothing special,neutral,nothing special
+I love this product,positive,love product
+Disappointing,negative,disappointing
+Can be improved,neutral,improved
+Amazing experience,positive,amazing experience
+Disappointing,negative,disappointing
+It works fine,neutral,works fine
+Great service,positive,great service
+Very bad service,negative,bad service
+Not bad,neutral,bad
+I love this product,positive,love product
+Hate this app,negative,hate app
+Not bad,neutral,bad
+Great service,positive,great service
+Terrible performance,negative,terrible performance
+It is okay,neutral,okay
+Great service,positive,great service
+Worst experience ever,negative,worst experience ever
+It is okay,neutral,okay
+Great service,positive,great service
+Disappointing,negative,disappointing
+It works fine,neutral,works fine
+Superb quality,positive,superb quality
+Disappointing,negative,disappointing
+Average experience,neutral,average experience
+Superb quality,positive,superb quality
+Terrible performance,negative,terrible performance
+It is okay,neutral,okay
+I love this product,positive,love product
+Worst experience ever,negative,worst experience ever
+Average experience,neutral,average experience
+Amazing experience,positive,amazing experience
+Terrible performance,negative,terrible performance
+Nothing special,neutral,nothing special
+Amazing experience,positive,amazing experience
+Hate this app,negative,hate app
+Nothing special,neutral,nothing special
+I love this product,positive,love product
+Very bad service,negative,bad service
+Not bad,neutral,bad
+Great service,positive,great service
+Terrible performance,negative,terrible performance
+It is okay,neutral,okay
+Very happy with this,positive,happy
+Disappointing,negative,disappointing
+It works fine,neutral,works fine
+Very happy with this,positive,happy
+Terrible performance,negative,terrible performance
+Can be improved,neutral,improved
+Amazing experience,positive,amazing experience
+Hate this app,negative,hate app
+Average experience,neutral,average experience
+Amazing experience,positive,amazing experience
+Very bad service,negative,bad service
+Nothing special,neutral,nothing special
+Amazing experience,positive,amazing experience
+Worst experience ever,negative,worst experience ever
+Not bad,neutral,bad
+Amazing experience,positive,amazing experience
+Hate this app,negative,hate app
+Nothing special,neutral,nothing special
+Great service,positive,great service
+Very bad service,negative,bad service
+Not bad,neutral,bad
+Great service,positive,great service
+Worst experience ever,negative,worst experience ever
+Average experience,neutral,average experience
+Absolutely fantastic,positive,absolutely fantastic
+Disappointing,negative,disappointing
+Nothing special,neutral,nothing special
+Great service,positive,great service
+Terrible performance,negative,terrible performance
+Can be improved,neutral,improved
+Absolutely fantastic,positive,absolutely fantastic
+Terrible performance,negative,terrible performance
+It works fine,neutral,works fine
+Absolutely fantastic,positive,absolutely fantastic
+Not satisfied,negative,satisfied
+It works fine,neutral,works fine
+Superb quality,positive,superb quality
+Terrible performance,negative,terrible performance
+It works fine,neutral,works fine
